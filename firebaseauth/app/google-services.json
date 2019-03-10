@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "577633416391",
+    "firebase_url": "https://myfirebaseauthapp-92edf.firebaseio.com",
+    "project_id": "myfirebaseauthapp-92edf",
+    "storage_bucket": "myfirebaseauthapp-92edf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577633416391:android:01b06b4e6bcfa1e9",
+        "android_client_info": {
+          "package_name": "map.simpliest.sunidhi.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577633416391-8hkao83f90eb85hpo8mcqm3vn3n5gv8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvdrjbi8iI_ZRIr0GegA0vUlhe1H5M47k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
